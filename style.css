@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    height: 500px;
+    background-color: #1F2937;
+}
+
+section.info{
+    height: 450px;
+    
+}
+
+section.quote{
+    height: 400px;
+    background-color: #E5E7EB;
+}
+
+section.form{
+    height: 350px;
+    
+}
+
+footer{
+    height: 100px;
+    background-color: #1F2937;
+}
