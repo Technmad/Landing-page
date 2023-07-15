@@ -150,6 +150,7 @@ button {
   font-size: 18px;
   font-weight: 900;
   align-self: flex-end;
+  padding-right: 85px;
 }
 
 /* form section */
