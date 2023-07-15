@@ -169,3 +169,11 @@ button {
   border-color: #e5e7eb;
   border: 3px solid;
 }
+
+/* footer section */
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #e5e7eb;
+}
